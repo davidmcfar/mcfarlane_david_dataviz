@@ -1,6 +1,6 @@
 # Canada vs USA - the ultimate story
 Olympics are a time where countries get together and duke it out to see who's better at sports.
-This is a website showing the reasults of one of the fercest rivallerys. Canana vs USA. Who has the most medals? whos better at hockey? Do they keep up the winrate through the years? Find out by visiting the website in this repository.
+This is a website showing the reasults of one of the fercest rivallerys. Canana vs USA. Who has the most medals? whos better at hockey? who has the most gold medals? Find out by visiting the website in this repository.
 
 ## Prerequisites: Have the files downloaded
 ## To launch it, just simply open the "index.html" in your browser of choice. 
