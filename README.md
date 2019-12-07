@@ -3,7 +3,7 @@ Olympics are a time where countries get together and duke it out to see who's be
 This is a website showing the reasults of one of the fercest rivallerys. Canana vs USA. Who has the most medals? whos better at hockey? who has the most gold medals? Find out by visiting the website in this repository.
 
 ## Prerequisites: Have the files downloaded
-## To launch it, just simply open the "index.html" in your browser of choice. 
+To launch it, just simply open the "index.html" in your browser of choice. 
 
 all graphs were built with Python 3
 
